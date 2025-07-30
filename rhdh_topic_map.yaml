@@ -72,6 +72,12 @@ Topics:
   - Name: Customizing Red Hat Developer Hub
     File: master
     WebpageID: customizing_red_hat_developer_hub
+- Name: Getting Started with Red Hat Developer Hub on Red Hat OpenShift Container Platform for the platform engineer
+  Dir: getting-started-with-rhdh-on-ocp-for-the-platform-engineer
+  Topics:
+  - Name: Getting started with Red Hat Developer Hub on Red Hat OpenShift Container Platform for the platform engineer
+    File: master
+    WebpageID: getting_started_with_red_hat_developer_hub_on_red_hat_openShift_container_platform_for_the_platform_engineer
 - Name: Install RHDH in air-gapped environment
   Dir: install-rhdh-air-gapped
   Topics:
@@ -108,6 +114,12 @@ Topics:
   - Name: Installing Red Hat Developer Hub on OpenShift Dedicated on Google Cloud Platform
     File: master
     WebpageID: installing_red_hat_developer_hub_on_openshift_dedicated_on_google_cloud_platform
+- Name: Integrating with GitHub
+  Dir: integrating-with-github
+  Topics:
+  - Name: Integrating Red Hat Developer Hub with GitHub
+    File: master
+    WebpageID: integrating_red_hat_developer_hub_with_github
 - Name: Monitoring and Logging
   Dir: monitoring-and-logging
   Topics:
@@ -138,6 +150,12 @@ Topics:
   - Name: Dynamic plugins reference
     File: master
     WebpageID: dynamic_plugins_reference
+- Name: Troubleshooting Plugins
+  Dir: plugins-rhdh-troubleshooting
+  Topics:
+  - Name: Troubleshooting Red Hat Developer Hub plugins
+    File: master
+    WebpageID: troubleshooting_red_hat_developer_hub_plugins
 - Name: Using Dynamic Plugins
   Dir: plugins-rhdh-using
   Topics:
