@@ -72,12 +72,12 @@ Topics:
   - Name: Customizing Red Hat Developer Hub
     File: master
     WebpageID: customizing_red_hat_developer_hub
-- Name: Getting Started with Red Hat Developer Hub on Red Hat OpenShift Container Platform for the platform engineer
-  Dir: getting-started-with-rhdh-on-ocp-for-the-platform-engineer
+- Name: Developer Lightspeed
+  Dir: developer-lightspeed
   Topics:
-  - Name: Getting started with Red Hat Developer Hub on Red Hat OpenShift Container Platform for the platform engineer
+  - Name: Interacting with Red Hat Developer Lightspeed for Red Hat Developer Hub
     File: master
-    WebpageID: getting_started_with_red_hat_developer_hub_on_red_hat_openShift_container_platform_for_the_platform_engineer
+    WebpageID: interacting_with_red_hat_developer_lightspeed_for_red_hat_developer_hub
 - Name: Install RHDH in air-gapped environment
   Dir: install-rhdh-air-gapped
   Topics:
@@ -126,6 +126,12 @@ Topics:
   - Name: Tracking performance and capturing insights with monitoring and logging tools in Red Hat Developer Hub
     File: master
     WebpageID: monitoring_and_logging
+- Name: Orchestrator in Red Hat Developer Hub
+  Dir: orchestrator
+  Topics:
+  - Name: Orchestrator enables serverless workflows for cloud migration, onboarding, and customization in Red Hat Developer Hub
+    File: master
+    WebpageID: orchestrator_in_red_hat_developer_hub
 - Name: About Plugins
   Dir: plugins-rhdh-about
   Topics:
@@ -150,12 +156,6 @@ Topics:
   - Name: Dynamic plugins reference
     File: master
     WebpageID: dynamic_plugins_reference
-- Name: Troubleshooting Plugins
-  Dir: plugins-rhdh-troubleshooting
-  Topics:
-  - Name: Troubleshooting Red Hat Developer Hub plugins
-    File: master
-    WebpageID: troubleshooting_red_hat_developer_hub_plugins
 - Name: Using Dynamic Plugins
   Dir: plugins-rhdh-using
   Topics:
