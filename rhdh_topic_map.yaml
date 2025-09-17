@@ -89,19 +89,19 @@ Topics:
   Topics:
   - Name: Installing Red Hat Developer Hub on Microsoft Azure Kubernetes Service
     File: master
-    WebpageID: installing_red_hat_developer_hub_on_microsoft_azure_kubernetes_service
+    WebpageID: installing_red_hat_developer_hub_on_microsoft_azure_kubernetes_service_aks
 - Name: Install RHDH on EKS
   Dir: install-rhdh-eks
   Topics:
   - Name: Installing Red Hat Developer Hub on Amazon Elastic Kubernetes Service
     File: master
-    WebpageID: installing_red_hat_developer_hub_on_amazon_elastic_kubernetes_service
+    WebpageID: installing_red_hat_developer_hub_on_amazon_elastic_kubernetes_service_eks
 - Name: Install RHDH on GKE
   Dir: install-rhdh-gke
   Topics:
   - Name: Installing Red Hat Developer Hub on Google Kubernetes Engine
     File: master
-    WebpageID: installing_red_hat_developer_hub_on_google_kubernetes_engine
+    WebpageID: installing_red_hat_developer_hub_on_google_kubernetes_engine_gke
 - Name: Install RHDH on OCP
   Dir: install-rhdh-ocp
   Topics:
