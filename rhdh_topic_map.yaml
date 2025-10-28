@@ -126,6 +126,12 @@ Topics:
   - Name: Tracking performance and capturing insights with monitoring and logging tools in Red Hat Developer Hub
     File: master
     WebpageID: monitoring_and_logging
+- Name: Operator flavors for Red Hat Developer Hub
+  Dir: operator-flavors
+  Topics:
+  - Name: Red Hat Developer Hub Operator Flavors
+    File: master
+    WebpageID: operator_flavors_for_red_hat_developer_hub
 - Name: Orchestrator in Red Hat Developer Hub
   Dir: orchestrator
   Topics:
@@ -168,6 +174,12 @@ Topics:
   - Name: Release Notes
     File: master
     WebpageID: red_hat_developer_hub_release_notes
+- Name: Setting up and configuring your first Red Hat Developer Hub instance
+  Dir: setting-up-and-configuring-your-first-red-hat-developer-hub-instance
+  Topics:
+  - Name: Setting up and configuring your first Red Hat Developer Hub instance
+    File: master
+    WebpageID: setting_up_and_configuring_your_first_red_hat_developer_hub_instance
 - Name: Techdocs
   Dir: techdocs
   Topics:
