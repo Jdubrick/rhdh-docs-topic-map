@@ -111,27 +111,39 @@ Topics:
 - Name: Installing RHDH on OSD GCP
   Dir: install-rhdh-osd-gcp
   Topics:
-  - Name: Installing Red Hat Developer Hub on OpenShift Dedicated on Google Cloud Platform
+  - Name: Installing Red Hat Developer Hub on OpenShift Dedicated on Google Cloud
     File: master
-    WebpageID: installing_red_hat_developer_hub_on_openshift_dedicated_on_google_cloud_platform
+    WebpageID: installing_red_hat_developer_hub_on_openshift_dedicated_on_google_cloud
 - Name: Integrating with GitHub
   Dir: integrating-with-github
   Topics:
   - Name: Integrating Red Hat Developer Hub with GitHub
     File: master
     WebpageID: integrating_red_hat_developer_hub_with_github
+- Name: Manage and consume technical documentation within Red Hat Developer Hub
+  Dir: manage-and-consume-techdoc-within-rhdh
+  Topics:
+  - Name: Manage and consume technical documentation within Red Hat Developer Hub
+    File: master
+    WebpageID: manage_and_consume_technical_documentation_within_red_hat_developer_hub
+- Name: Interacting with Model Context Protocol tools for Red Hat Developer Hub
+  Dir: model-context-protocol-tools
+  Topics:
+  - Name: Interacting with Model Context Protocol tools for Red Hat Developer Hub
+    File: master
+    WebpageID: interacting_with_model_context_protocol_tools_for_red_hat_developer_hub
 - Name: Monitoring and Logging
   Dir: monitoring-and-logging
   Topics:
   - Name: Tracking performance and capturing insights with monitoring and logging tools in Red Hat Developer Hub
     File: master
     WebpageID: monitoring_and_logging
-- Name: Operator flavors for Red Hat Developer Hub
-  Dir: operator-flavors
+- Name: Accelerate AI development with Openshift AI Connector for Red Hat Developer Hub
+  Dir: openshift-ai-connector-for-rhdh
   Topics:
-  - Name: Red Hat Developer Hub Operator Flavors
+  - Name: Accelerate AI development with Openshift AI Connector for Red Hat Developer Hub
     File: master
-    WebpageID: operator_flavors_for_red_hat_developer_hub
+    WebpageID: accelerate_ai_development_with_openshift_ai_connector_for_red_hat_developer_hub
 - Name: Orchestrator in Red Hat Developer Hub
   Dir: orchestrator
   Topics:
@@ -174,12 +186,24 @@ Topics:
   - Name: Release Notes
     File: master
     WebpageID: red_hat_developer_hub_release_notes
+- Name: Understand and visualize Red Hat Developer Hub project health using Scorecards
+  Dir: scorecard-plugin
+  Topics:
+  - Name: Understand and visualize Red Hat Developer Hub project health using Scorecards
+    File: master
+    WebpageID: understand_and_visualize_red_hat_developer_hub_project_health_using_scorecards
 - Name: Setting up and configuring your first Red Hat Developer Hub instance
   Dir: setting-up-and-configuring-your-first-red-hat-developer-hub-instance
   Topics:
   - Name: Setting up and configuring your first Red Hat Developer Hub instance
     File: master
     WebpageID: setting_up_and_configuring_your_first_red_hat_developer_hub_instance
+- Name: Streamline software development and management in Red Hat Developer Hub
+  Dir: streamline-software-development-and-managment-in-rhdh
+  Topics:
+  - Name: Streamline software development and management in Red Hat Developer Hub
+    File: master
+    WebpageID: streamline_software_development_and_management_in_red_hat_developer_hub
 - Name: Techdocs
   Dir: techdocs
   Topics:
