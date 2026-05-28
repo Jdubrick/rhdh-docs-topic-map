@@ -180,6 +180,12 @@ Topics:
   - Name: Using dynamic plugins
     File: master
     WebpageID: using_dynamic_plugins_in_red_hat_developer_hub
+- Name: Release Notes
+  Dir: release-notes
+  Topics:
+  - Name: Red Hat Developer Hub release notes
+    File: master
+    WebpageID: red_hat_developer_hub_release_notes
 - Name: Evaluate project health using Scorecards
   Dir: scorecard-plugin
   Topics:
