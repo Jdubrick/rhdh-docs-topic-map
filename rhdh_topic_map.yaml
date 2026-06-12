@@ -101,7 +101,7 @@ Topics:
   Topics:
   - Name: Helm Chart configuration reference
     File: master
-    WebpageID: helm-chart-configuration-reference
+    WebpageID: helm_chart_configuration_reference
 - Name: Install RHDH in air-gapped environment
   Dir: install_installing-rhdh-in-an-air-gapped-environment
   Topics:
